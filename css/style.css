@@ -695,6 +695,10 @@ video {
   width: 8rem;
 }
 
+.grow {
+  flex-grow: 1;
+}
+
 .flex-col {
   flex-direction: column;
 }
@@ -721,6 +725,10 @@ video {
 
 .justify-center {
   justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
 }
 
 .space-x-12 > :not([hidden]) ~ :not([hidden]) {
