@@ -5,6 +5,11 @@
 
 /* Hamburger Menu  */
 @media  screen and (max-width:768px) {
+
+
+  .ham-menu{
+    left: 60%;
+  }
 .hamburger {
     position: relative;
     left: 90%;
